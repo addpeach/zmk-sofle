@@ -47,12 +47,12 @@ layers:
   - V
   - B
   - $$mdi:arrow-right-bold$$
-  - {t: \, s: '|'}
   - N
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
+  - {t: \, s: '|'}
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
@@ -63,8 +63,8 @@ layers:
   - $$mdi:arrow-right-bold$$
   - layer1
   - '2'
-  - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
+  - {t: '-', s: _}
+  - +
   layer1:
   - {t: '`', s: '~'}
   - F1
