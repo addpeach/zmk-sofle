@@ -63,8 +63,8 @@ layers:
   - $$mdi:arrow-left-bold$$
   - '2'
   - layer1
-  - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-up-bold$$
   layer1:
   - {t: '`', s: '~'}
   - F1
