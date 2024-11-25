@@ -61,8 +61,8 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:arrow-left-bold$$
-  - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - layer1
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   layer1:
@@ -126,7 +126,7 @@ layers:
   - _
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
