@@ -26,7 +26,7 @@ layers:
   - I
   - O
   - P
-  - {t: '`', s: '~'}
+  - {t: /, s: '?'}
   - $$mdi:apple-keyboard-control$$
   - A
   - S
@@ -64,7 +64,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer1
   - '!'
-  - $$mdi:backspace-reverse-outline$$
+  - {t: ']', s: '}'}
   layer1:
   - '~'
   - F1
